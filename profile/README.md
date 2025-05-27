@@ -5,7 +5,7 @@
 </center>
 
 **The EVPV-Simulator (Electric Vehicles – PhotoVoltaics Simulator) is an open-source python tool to support electric vehicle planning studies in a given region of interest.** 
-The tool focuses on privately owned vehicles and is tailored to regions with scarce dat. It enables endogenous simulation of commmuting patterns by leveraging open-source geospatial datasets, while estimating spatio-temporal EV charging needs and the potential for solar photovoltaic (PV) systems to meet those demands.
+The tool focuses on privately owned vehicles and is tailored to regions with scarce data. It enables endogenous simulation of commmuting patterns by leveraging open-source geospatial datasets, while estimating spatio-temporal EV charging needs and the potential for solar photovoltaic (PV) systems to meet those demands.
 
 Feel free to pull, fork, use, and report any issues :)
 
